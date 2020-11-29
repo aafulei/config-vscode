@@ -1,0 +1,6 @@
+*
+!.gitignore
+!do.sh
+!keybindings.json
+!readme.md
+!settings.json
